@@ -3,7 +3,7 @@
 
 # Golds Fitness Website
 
-Golds Fitness Website! This website provides a wide range of exercises that target different muscle groups. Each exercise is accompanied by a YouTube video demonstrating the proper form and technique. The project is built using ReactJS, Tailwind CSS, and RapidAPI.
+Golds fitness website provides a wide range of exercises that target different muscle groups. Each exercise is accompanied by a YouTube video demonstrating the proper form and technique. The project is built using ReactJS, Tailwind CSS, and RapidAPI.
 
 ### Features
 
